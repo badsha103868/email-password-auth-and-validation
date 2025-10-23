@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+ li a {
+  margin-right: 50px;
+}
